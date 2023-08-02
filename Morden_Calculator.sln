@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morden_Calculator", "Morden_Calculator\Morden_Calculator.csproj", "{31777975-8652-4FFE-91AF-75B66371267C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31777975-8652-4FFE-91AF-75B66371267C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31777975-8652-4FFE-91AF-75B66371267C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31777975-8652-4FFE-91AF-75B66371267C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31777975-8652-4FFE-91AF-75B66371267C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACE392C-C8C9-4FB7-8019-C68F8345C7CF}
+	EndGlobalSection
+EndGlobal
